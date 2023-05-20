@@ -1,0 +1,22 @@
+/* app.component.css */
+
+.container {
+  margin: 20px;
+}
+
+label {
+  font-weight: bold;
+}
+
+input {
+  padding: 5px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  cursor: pointer;
+}
